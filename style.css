@@ -1,0 +1,22 @@
+.jumbotron{
+    background-color:aqua;
+    text-align: center;
+    margin: 50px;
+    
+}
+#content{
+    text-align: center;
+}
+.card{
+    margin-left: 120px;
+    padding-top: 20px;
+}
+#icon{
+    width: 200px;
+}
+#footer{
+    background-color:slategrey;
+    padding-top: 150px;
+    text-align: center;
+    padding-bottom: 20px;
+}
